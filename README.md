@@ -1,38 +1,5 @@
-A Progress Report 
-
- on 
-
  Emotion Classification in HINGLISH social media text using supervised Machine Learning Algorithms 
 
- carried out as part of the course CS1634 Submitted by 
-
-Harsh Athavale & Harsh Shukla 
-
- 189301092/189302156 
-
-  
-
-VI-CSE 
-
- in partial fulfillment for the award of the degree 
-
- of 
-
- BACHELOR OF TECHNOLOGY 
-
-In 
-
- Computer Science & Engineering 
-
-  
-
- Department of Computer Science & Engineering, 
-
-School of Computing and IT, 
-
-Manipal University Jaipur, 
-
-April 2021 
 
      Abstract 
 
