@@ -1,3 +1,7 @@
+ Contributers : 
+ 1 . Harsh Shukla.  - Shuklaharsh
+ 2.  Harsh Athavale - hat359
+ 
  Emotion Classification in HINGLISH social media text using supervised Machine Learning Algorithms 
 
 
